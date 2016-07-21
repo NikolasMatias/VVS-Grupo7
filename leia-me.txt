@@ -1,0 +1,30 @@
+Este arquivo tem por objetivo detalhar o trabalho final da disciplina VVS 2016-1.
+
+1 - O trabalho consiste em elaborar um plano de teste para o sistema "ProcessoSeletivo". Uma visão geral deste sistema consta do arquivo: descricaoTrabalhoFinalVVS20161.odt.
+2 - O plano de teste é para ser elaborado tendo como base o template constante do arquivo: Template_Plano_Teste.doc.
+3 - O foco deste plano de teste deve ser nos testes funcionais, unidade e integração;
+4 - os requisitos do sistema estão especificados nos arquivos:
+	4.1 - CSU01-publicar-vagas.odt;
+	4.2 - CSU02-realizar-inscricao.odt
+	4.3 - CSU03-agendar-entrevista.odt
+	4.4 - CSU04-entrevistar-candidato.odt
+	4.5 - CSU05-avaliar-candidatos.odt
+	4.6 - CSU06-reportar-resultado.odt
+	4.7 - CSU07-logar-no-sistema.odt
+	4.8 - CSU08-manter-usuarios.odt
+	4.9 - CSU09-enviar-email.odt
+5 - os arquivos: emailAgendamentoEntrevista.odt, emailResultadoCandidato.odt, emailResultadoCliente.odt são templates para a emissão de email;
+6 - o arquivo: mensagens.odt contem as mensagens disparadas pelo sistema;
+7 - o arquivo: processo-seletivo.bmpr contém os protótipos do sistema, gerados utilizando a ferramenta Balsamiq_mockups;
+8 - o processoSeletivo.asta contem o projeto em UML, desenvolvido utilizando a ferramenta astah-community;
+9 - o aquivo regras-de-negocio.odt contem as regras de negócio que devem ser implementadas no sistema;
+10 - a pasta imagens-uml contém as imagens dos diagramas UML (caso de uso, classe e estados), linkados com os casos de uso;
+11 - a pasta prototipos contém as imagens dos protótipos, também linkadas com os casos de uso.
+
+OBSERVAÇÕES:
+
+12. Esta é a versão atual deste projeto. Podem observar que ainda falta detalhamento de algumas funcionalidades, mas para efeito deste nosso trabalho, esta versão é suficiente;
+
+13 - Podem existir erros nos artefados, encontrá-los e reportá-los faz parte do trabalho.
+
+
